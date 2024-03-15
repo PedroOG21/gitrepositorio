@@ -1,0 +1,2 @@
+Contenido del archivo activ32.txt
+Otra linea del archivo activ32.txt
